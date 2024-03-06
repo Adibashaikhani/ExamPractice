@@ -3,7 +3,8 @@ public class addition {
         int a = 1;
         int b = 1;
         int c = 3;
-        System.out.println(a + b + c);
+        int d = 5;
+        System.out.println(a + b + c + d);
 
     }
 }
